@@ -1,5 +1,28 @@
 # Buefy Changelog
 
+## 0.9.21
+
+## Fixes
+
+* Fix #3734 refresh columns on destroy
+* Fix setting type html attribute on non-button tags (thanks @tcitworld)
+
+## 0.9.20
+
+### New features
+
+* Add search feature to docs (thanks @Mars073)
+* Add ``checkbox-type`` prop to table (thanks @Mars073)
+
+### Fixes
+
+* Fix #3432 accessibility using keyboard on checkbox into the table (thanks @chadlafontaine)
+* Fix #3705 validation error on focus instead of blur (thanks @lucraraujo)
+* Fix #3707 field inner type
+* Fix issues about colorpicker (thanks @Mars073)
+* Fix expaned on menu item (thanks @adamgreenhall)
+* Fix clockpicker close (thanks @s-nesbigall)
+
 ## 0.9.19
 
 ### Fixes
